@@ -1,5 +1,6 @@
 ---
-title: "Desarrollo Laboratorio 1 - Análisis de Datos"
+title: "Desarrollo Laboratorio Nº1"
+subtitle: Análisis de Datos
 author: "Profesores: Ramón H. Cornejo-Muñoz y Felipe Rojas</br>Profesor Ayudante de Laboratorio: Mauricio Vargas</br>Ayudantes: Franco Mansilla y Mauricio Díaz</br></br>Universidad Nacional Andrés Bello"
 output: html_document
 widgets: mathjax
