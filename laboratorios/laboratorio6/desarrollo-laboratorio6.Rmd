@@ -21,7 +21,7 @@ knit : slidify::knit2slides
 
 ## Modelos anidados (1)
 
-En el <a href="https://www.youtube.com/watch?v=IUvu3Jsyyfw">complemento del Laboratorio Nº4</a> y el <a href="http:"http://pachamaltese.github.io/analisis-de-datos-unab/laboratorios/laboratorio5/desarrollo-laboratorio5.html">Laboratorio Nº5</a> vimos la base de datos `appleProdFr86`. Para estos datos comparamos el ajuste de cuatro funciones de producción.
+En el <a href="http://pachamaltese.github.io/complementos/complemento-laboratorio4/complemento-laboratorio-4.html">complemento del Laboratorio Nº4</a> y el <a href="http:"http://pachamaltese.github.io/analisis-de-datos-unab/laboratorios/laboratorio5/desarrollo-laboratorio5.html">Laboratorio Nº5</a> vimos la base de datos `appleProdFr86`. Para estos datos comparamos el ajuste de cuatro funciones de producción.
 
 1. Lineal: $y = \beta_0 + \sum_i \beta_i x_i$
 2. Cuadrática: $y = \beta_0 + \sum_i \beta_i x_i + \frac{1}{2} \sum_i \sum_j \beta_{ij} x_i x_j$

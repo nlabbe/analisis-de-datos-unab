@@ -237,7 +237,7 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 
 ## Ejercicio 4
 
-A partir del <a href="https://www.youtube.com/watch?v=IUvu3Jsyyfw">complemento del Laboratorio Nº4</a> estime los parámetros de la siguiente función de producción usando ML:
+A partir del <a href="http://pachamaltese.github.io/complementos/complemento-laboratorio4/complemento-laboratorio-4.html">complemento del Laboratorio Nº4</a> estime los parámetros de la siguiente función de producción usando ML:
 
 $$y = \beta_0 + \sum_i \beta_i x_i$$
 
@@ -308,7 +308,7 @@ Examine las variables de la base de datos `appleProdFr86` testee la correlación
 
 Verificación de hipótesis: Correlación lineal entre dos variables
 $$H_0:\: \rho = 0$$
-$$H_A:\: \rho\neq 0$$
+$$H_1:\: \rho\neq 0$$
 Se usa el estadístico 
 $$
 t = r \sqrt{\frac{n-2}{1-r^2}}

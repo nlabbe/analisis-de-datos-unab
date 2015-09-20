@@ -16,7 +16,7 @@ mode: selfcontained # {standalone, draft}
     
 Indicación de trabajo:
 
-* <a href="http://pachamaltese.github.io/analisis-de-datos-unab/laboratorio1/laboratorio1.pdf">laboratorio1.pdf</a>
+* <a href="http://pachamaltese.github.io/analisis-de-datos-unab/laboratorios/laboratorio1/laboratorio1.pdf">laboratorio1.pdf</a>
 
 Archivos Excel:
 
